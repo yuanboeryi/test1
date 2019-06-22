@@ -13,8 +13,7 @@ Syntax highlighted code block
 
 # 可以修改
 
-- Bulleted
-- List
+都可以修改
 
 1. Numbered
 2. List
